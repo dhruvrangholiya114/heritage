@@ -68,8 +68,8 @@ int main() {
    ManagerEngineer me;
 
    
-   me.Manager::set_values("John Smith", 35, 100000);
-   me.Engineer::set_values("Jane Doe", 28, 80000);
+   me.Manager::set_values("Dhruv", 19, 100000);
+   me.Engineer::set_values("Neeraj", 20, 80000);
    me.Manager::set_num_subordinates(5);
    me.Engineer::set_specialization("Software Development");
 
